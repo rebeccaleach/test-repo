@@ -8,13 +8,18 @@ a,
 a:link,
 a:visited,
 a:active {
-	color: #444;
+	color: #ccc;
 	font-weight: bold;
 	text-decoration: none;
 }
 
+a:hover {
+	color: #666;
+}
+
 .container {
 	margin: 0 auto;
+	padding-bottom: 2em;
 	width: 75%;
 
 }
