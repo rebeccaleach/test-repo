@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: rebeccapurple;
+}
+
+a,
+a:link,
+a:visited,
+a:active {
+	color: #444;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.container {
+	margin: 0 auto;
+	width: 75%;
+
+}
